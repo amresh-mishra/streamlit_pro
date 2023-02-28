@@ -7,10 +7,12 @@ st.snow()
 btn_click = st.button("My Intro 👈 ")
 
 if btn_click == True:
-    st.subheader("My self Amresh Mishra , My quallification is MBA(IT and marekting) and BCA . \
+    st.subheader(("Myself Amresh Mishra , My qualification is MBA(IT and marekting) and BCA . \
                  While doing Job in Indiamart(sales) for 1 years I realise i don't continue my studies with Job. \
-                 So I left the job and continue my studies to make my career in Data Science field and dovoted myself \
-                 to upgrade my skills .  ")
+                 So I left the job and Restarted my studies to make my career in Data Science field and dovoted myself \
+                 to upgrade my skills . \
+                 I also persuing Advance certifiction in Data Science from CCE IIT madras \
+                 I thanks Innomatics Reasearch Lab for providing this Internship opportunity  ")
     st.balloons()
 
 
